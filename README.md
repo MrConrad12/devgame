@@ -1,0 +1,3 @@
+- Copier le code dans le dossier "Assets"
+- Glisser dans l'objet Player le script PlayerMotor et PlayerController
+- N'oublier de renseigner les elements nécessaire dans l'inspector du joueur (voir les elements avec [SerializeField] dans les scripts) ex: vitesse, sensibilité souris, caméra,...
